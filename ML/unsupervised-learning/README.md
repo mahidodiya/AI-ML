@@ -63,7 +63,7 @@ Unsupervised Learning algorithms process **unlabeled data** ($X$ features only).
 
 ## 📦 Project Structure
 
-text
+```text
 unsupervised-learning/
 ├── clustering/
 │   ├── kmeans.py
